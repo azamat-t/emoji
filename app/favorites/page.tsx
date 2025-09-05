@@ -167,12 +167,6 @@ export default function Favorites() {
           </div>
         )}
       </main>
-
-      <footer className='mt-12 py-6 bg-gray-800 text-white text-center'>
-        <div className='container mx-auto'>
-          <p>Powered by EmojiHub API</p>
-        </div>
-      </footer>
     </div>
   )
 }
