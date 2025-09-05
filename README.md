@@ -24,7 +24,7 @@ A modern, responsive web application for browsing, searching, and managing emoji
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/azamat-t/emoji
 cd emoji-hub
 ```
 
